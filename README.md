@@ -36,19 +36,23 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 
-1. Clone the repository:
+1. Download [Latest version](https://git-scm.com/downloads/win) of Git for Windows
 ```sh
  git clone https://github.com/Arya987/Weather.git
 ```
-2. Navigate to the project directory:
+2. Clone the repository:
+```sh
+ git clone https://github.com/Arya987/Weather.git
+```
+3. Navigate to the project directory:
 ```sh 
 cd weather
 ```
-3. Change API key for all the js files
+4. Change API key for all the js files
 ```javascript
 let apiKey = "Your API Key";
 ``` 
-4. Open `index.html` in your browser to view the project.
+5. Open `index.html` in your browser to view the project.
 
 ### Usage
 
