@@ -37,9 +37,7 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 
 1. Download [Latest version](https://git-scm.com/downloads/win) of Git for Windows
-```sh
- git clone https://github.com/Arya987/Weather.git
-```
+
 2. Clone the repository:
 ```sh
  git clone https://github.com/Arya987/Weather.git
